@@ -16,6 +16,7 @@ The **MVP (Model-View-Presenter) pattern** is a design pattern commonly used to 
 The MVP (Model-View-Presenter) pattern is particularly well-suited for specific types of applications due to its architecture and separation of concerns. Here are some scenarios where the MVP pattern is beneficial:
 
 1. **Desktop Applications**
+
    **Use Case:** Applications with rich user interfaces, such as Windows Forms or WPF applications.
    
    **Benefits:** MVP allows for easier unit testing of the presenter and model logic, while keeping the view (UI) 
