@@ -22,5 +22,7 @@ The MVP (Model-View-Presenter) pattern is particularly well-suited for specific 
      separate. It makes it simpler to manage complex UI interactions.
 
 1. **Web Applications**
+
    **Use Case:** Applications built with ASP.NET Web Forms or any other framework where a clear separation of UI and business logic is necessary.
-**Benefits:** MVP helps in structuring the application, making it easier to manage the flow of data between the UI and the underlying logic. It allows for easier testing of business logic without relying on the UI components.
+
+   **Benefits:** MVP helps in structuring the application, making it easier to manage the flow of data between the UI and the underlying logic. It allows for easier testing of business logic without relying on the UI components.
